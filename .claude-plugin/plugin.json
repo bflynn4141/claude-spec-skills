@@ -1,0 +1,11 @@
+{
+  "name": "discovery",
+  "description": "Feature discovery skills for Claude Code. Ask the right questions before writing code — lightweight Socratic interrogation (/discovery:spec) or research-powered deep discovery (/discovery:deep-spec).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brian Flynn",
+    "url": "https://github.com/bflynn4141"
+  },
+  "repository": "https://github.com/bflynn4141/claude-spec-skills",
+  "license": "MIT"
+}
